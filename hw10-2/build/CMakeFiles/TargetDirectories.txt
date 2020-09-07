@@ -1,0 +1,4 @@
+/home/daeunchung/2019_ITE1015_2018029543/hw10-2/build/CMakeFiles/edit_cache.dir
+/home/daeunchung/2019_ITE1015_2018029543/hw10-2/build/CMakeFiles/clock_time.dir
+/home/daeunchung/2019_ITE1015_2018029543/hw10-2/build/CMakeFiles/rebuild_cache.dir
+/home/daeunchung/2019_ITE1015_2018029543/hw10-2/build/CMakeFiles/print_shape.dir

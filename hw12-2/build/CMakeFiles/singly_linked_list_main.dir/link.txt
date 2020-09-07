@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/singly_linked_list_main.dir/singly_linked_list_main.cc.o  -o singly_linked_list_main -rdynamic 

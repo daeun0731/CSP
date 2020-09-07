@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daeunchung/2019_ITE1015_2018029543/hw12-1/MyContainer.cpp
+MyContainer.h
+/home/daeunchung/2019_ITE1015_2018029543/hw12-1/MyContainer.h
+iostream
+-
+
+/home/daeunchung/2019_ITE1015_2018029543/hw12-1/MyContainer.h
+
+/home/daeunchung/2019_ITE1015_2018029543/hw12-1/MyVector.cpp
+MyVector.h
+/home/daeunchung/2019_ITE1015_2018029543/hw12-1/MyVector.h
+MyContainer.cpp
+/home/daeunchung/2019_ITE1015_2018029543/hw12-1/MyContainer.cpp
+iostream
+-
+algorithm
+-
+
+/home/daeunchung/2019_ITE1015_2018029543/hw12-1/MyVector.h
+MyContainer.h
+/home/daeunchung/2019_ITE1015_2018029543/hw12-1/MyContainer.h
+
+/home/daeunchung/2019_ITE1015_2018029543/hw12-1/MyVector_main.cpp
+MyVector.h
+/home/daeunchung/2019_ITE1015_2018029543/hw12-1/MyVector.h
+iostream
+-
+MyVector.cpp
+/home/daeunchung/2019_ITE1015_2018029543/hw12-1/MyVector.cpp
+

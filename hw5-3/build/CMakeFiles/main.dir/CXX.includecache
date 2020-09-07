@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daeunchung/2019_ITE1015_2018029543/hw5-3/magic_square.cc
+
+/home/daeunchung/2019_ITE1015_2018029543/hw5-3/magic_square.h
+
+/home/daeunchung/2019_ITE1015_2018029543/hw5-3/main.cc
+iostream
+-
+stdlib.h
+-
+magic_square.h
+/home/daeunchung/2019_ITE1015_2018029543/hw5-3/magic_square.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/print_shape.dir/print_shape.cc.o CMakeFiles/print_shape.dir/print_shape_main.cc.o  -o print_shape -rdynamic 

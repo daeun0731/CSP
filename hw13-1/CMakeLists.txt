@@ -1,0 +1,5 @@
+add_executable(exception_handling_1 exception_handling_1.cc)
+add_executable(exception_handling_2 exception_handling_2.cc)
+add_executable(exception_handling_3 exception_handling_3.cc)
+add_executable(exception_handling_4 exception_handling_4.cc)
+

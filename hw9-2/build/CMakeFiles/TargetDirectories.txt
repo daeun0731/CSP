@@ -1,0 +1,4 @@
+/home/daeunchung/2019_ITE1015_2018029543/hw9-2/build/CMakeFiles/rebuild_cache.dir
+/home/daeunchung/2019_ITE1015_2018029543/hw9-2/build/CMakeFiles/edit_cache.dir
+/home/daeunchung/2019_ITE1015_2018029543/hw9-2/build/CMakeFiles/draw_shape.dir
+/home/daeunchung/2019_ITE1015_2018029543/hw9-2/build/CMakeFiles/Animals.dir

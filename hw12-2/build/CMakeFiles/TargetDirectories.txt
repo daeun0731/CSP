@@ -1,0 +1,4 @@
+/home/daeunchung/2019_ITE1015_2018029543/hw12-2/build/CMakeFiles/rebuild_cache.dir
+/home/daeunchung/2019_ITE1015_2018029543/hw12-2/build/CMakeFiles/edit_cache.dir
+/home/daeunchung/2019_ITE1015_2018029543/hw12-2/build/CMakeFiles/shared_ptr_main.dir
+/home/daeunchung/2019_ITE1015_2018029543/hw12-2/build/CMakeFiles/singly_linked_list_main.dir

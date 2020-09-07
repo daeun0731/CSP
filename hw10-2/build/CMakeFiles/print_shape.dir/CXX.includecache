@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daeunchung/2019_ITE1015_2018029543/hw10-2/print_shape.cc
+print_shape.h
+/home/daeunchung/2019_ITE1015_2018029543/hw10-2/print_shape.h
+
+/home/daeunchung/2019_ITE1015_2018029543/hw10-2/print_shape.h
+string
+-
+
+/home/daeunchung/2019_ITE1015_2018029543/hw10-2/print_shape_main.cc
+print_shape.h
+/home/daeunchung/2019_ITE1015_2018029543/hw10-2/print_shape.h
+iostream
+-
+vector
+-
+stdlib.h
+-
+stdio.h
+-
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daeunchung/2019_ITE1015_2018029543/hw12-2/singly_linked_list.h
+iostream
+-
+
+/home/daeunchung/2019_ITE1015_2018029543/hw12-2/singly_linked_list_main.cc
+singly_linked_list.h
+/home/daeunchung/2019_ITE1015_2018029543/hw12-2/singly_linked_list.h
+iostream
+-
+

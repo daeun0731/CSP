@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/cast_quiz.dir/cast_quiz.cc.o  -o cast_quiz -rdynamic 

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daeunchung/2019_ITE1015_2018029543/hw5-2/sort.cc
+
+/home/daeunchung/2019_ITE1015_2018029543/hw5-2/sort.h
+
+/home/daeunchung/2019_ITE1015_2018029543/hw5-2/sort_int.cc
+iostream
+-
+sort.h
+/home/daeunchung/2019_ITE1015_2018029543/hw5-2/sort.h
+
